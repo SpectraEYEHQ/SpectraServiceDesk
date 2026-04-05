@@ -38,9 +38,7 @@ It enables each tenant organization to manage internal operations, external cust
    * [Notification Flow](#notification-flow)
    * [Visibility Boundary Model](#visibility-boundary-model)
 9. [Project Structure](#project-structure)
-10. [Installation & Setup](#installation--setup)
-11. [Recommended Functional Extensions](#recommended-functional-extensions)
-12. [License](#license)
+10. [License](#license)
 
 ---
 
