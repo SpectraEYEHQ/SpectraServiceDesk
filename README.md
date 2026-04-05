@@ -1,7 +1,5 @@
 # 🛡️ SpectraServiceDesk - ITSM & Project Management
 
-![SpectraServiceDesk Banner](/public/images/logo.png)
-
 > **SpectraServiceDesk** is a multi-tenant platform that unifies **Service Desk**, **Customer Support Portal**, **Client Organization Management**, and **Project Management** into a single operational ecosystem.
 
 It enables each tenant organization to manage internal operations, external customer support, project delivery, knowledge sharing, and service execution through a single platform.
