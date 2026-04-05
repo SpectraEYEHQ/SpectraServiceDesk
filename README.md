@@ -1,4 +1,6 @@
-# SpectraServiceDesk - ITSM & Project Management
+# 🛡️ SpectraServiceDesk - ITSM & Project Management
+
+![SpectraServiceDesk Banner](/public/images/logo.png)
 
 > **SpectraServiceDesk** is a multi-tenant platform that unifies **Service Desk**, **Customer Support Portal**, **Client Organization Management**, and **Project Management** into a single operational ecosystem.
 
@@ -6,7 +8,7 @@ It enables each tenant organization to manage internal operations, external cust
 
 ---
 
-## Table of Contents
+## 📚 Table of Contents
 
 1. [About the Project](#about-the-project)
 2. [Core Business Model](#core-business-model)
@@ -44,7 +46,7 @@ It enables each tenant organization to manage internal operations, external cust
 
 ---
 
-## About the Project
+## 🚀 About the Project
 
 **SpectraServiceDesk** is designed for organizations that need both operational support and delivery management in the same platform.
 
@@ -68,7 +70,7 @@ A tenant organization can use SpectraServiceDesk for:
 
 ---
 
-## Core Business Model
+## 🧩 Core Business Model
 
 SpectraServiceDesk follows a **tenant-based model**.
 
@@ -92,7 +94,7 @@ This allows each tenant to operate in two directions at the same time:
 
 ---
 
-## Core Modules
+## 🧱 Core Modules
 
 SpectraServiceDesk is structured around six core modules:
 
@@ -131,9 +133,9 @@ SpectraServiceDesk is structured around six core modules:
 
 ---
 
-## Key Features
+## ✨ Key Features
 
-### Service Desk & Ticketing
+### 🎫 Service Desk & Ticketing
 
 * Ticket lifecycle management:
 
@@ -157,7 +159,7 @@ SpectraServiceDesk is structured around six core modules:
 * Customer satisfaction flow after resolution
 * Auto-close policies
 
-### Customer Portal
+### 🌐 Customer Portal
 
 * Self-service ticket submission
 * Ticket status tracking and history
@@ -167,7 +169,7 @@ SpectraServiceDesk is structured around six core modules:
 * Multi-user access under one customer organization
 * Secure separation between internal and external users
 
-### Client Organizations
+### 🏢 Client Organizations
 
 * Manage external customer companies linked to a tenant
 * Create customer organizations and contacts
@@ -176,7 +178,7 @@ SpectraServiceDesk is structured around six core modules:
 * Associate customers with products, services, or support scope
 * Support B2B customer management scenarios
 
-### Workspace (Project Management)
+### 📈 Workspace (Project Management)
 
 * Project and phase management
 * Task boards and structured work tracking
@@ -187,7 +189,7 @@ SpectraServiceDesk is structured around six core modules:
 * Lessons learned repository
 * Delivery progress reporting
 
-### Knowledge Base
+### 📖 Knowledge Base
 
 * Category and sub-category hierarchy
 * Rich text content
@@ -196,7 +198,7 @@ SpectraServiceDesk is structured around six core modules:
 * Searchable help content
 * Reusable guidance for ticket deflection and faster resolution
 
-### Service Catalog
+### 🛎️ Service Catalog
 
 * Define supported services or products per tenant
 * Route requests based on selected service
@@ -211,7 +213,7 @@ SpectraServiceDesk is structured around six core modules:
 
 ---
 
-## Roles & Permissions
+## 👥 Roles & Permissions
 
 SpectraServiceDesk uses **RBAC** to enforce operational control and scoped visibility.
 
@@ -256,7 +258,7 @@ SpectraServiceDesk uses **RBAC** to enforce operational control and scoped visib
 
 ---
 
-## Multi-Tenant Data Isolation
+## 🔐 Multi-Tenant Data Isolation
 
 Each request in SpectraServiceDesk is resolved within a **tenant boundary**.
 Customer portal users are additionally restricted to their linked **customer organization scope** and granted permissions.
@@ -279,7 +281,7 @@ This model helps ensure that:
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 ### Frontend
 
@@ -311,7 +313,7 @@ This model helps ensure that:
 
 ---
 
-## System Architecture
+## 🏗️ System Architecture
 
 ### Platform Context
 
@@ -562,7 +564,7 @@ flowchart TB
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```bash
 SpectraServiceDesk/
@@ -594,7 +596,7 @@ SpectraServiceDesk/
 
 ---
 
-## Installation & Setup
+## ⚙️ Installation & Setup
 
 ### Requirements
 
@@ -633,7 +635,7 @@ npm run dev
 
 ---
 
-## Recommended Functional Extensions
+## 🚀 Recommended Functional Extensions
 
 Recommended next-step modules or enhancements:
 
@@ -688,10 +690,10 @@ Recommended next-step modules or enhancements:
 
 ---
 
-## License
+## 📄 License
 
 Distributed under the Proprietary License. See `LICENSE` for more information.
 
 ---
 
-Built with ❤️ by the SpectraEYE Team
+**Built with ❤️ by the SpectraEYE Team**
